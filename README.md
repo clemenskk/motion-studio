@@ -21,6 +21,12 @@ preview and rendering. Everything runs on your machine.
   files. You approve, lock and version everything.
 - **Local-first.** Next.js + a worker on `127.0.0.1`, Postgres in Docker, project files on disk.
 
+## See what it makes
+
+**[▶ Watch the launch film](examples/motion-studio-launch-film.mp4)**: 47 seconds made entirely by Claude Code
+inside Motion Studio. The project behind it is in [`examples/`](examples/), so import it, open any scene and
+see exactly how it's built.
+
 ## Requirements
 
 | | |
